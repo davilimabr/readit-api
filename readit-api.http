@@ -1,0 +1,6 @@
+@readit_api_HostAddress = http://localhost:5274
+
+GET {{readit_api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
